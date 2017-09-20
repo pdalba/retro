@@ -107,7 +107,7 @@ def get_mu_nuref(atm_type):
 
 #The next set of function each retrieve an individual property of the atmosphere.
 #-----------------------------------------------------------------------------------------
-def get_temperature(z, lat):
+def get_temperature(z, lat, T_atm):
 	#Isothermal atmosphere
 	return T_atm
 
