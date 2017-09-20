@@ -63,11 +63,15 @@ The one alteration that may be required involves the optical depth. retro_rk4 ex
 
 shoulder_visualization reads in the output from shoulder.py and creates several useful figures displaying the data. It works based on the ID of the specific shoulder.py run(s) as specified in the input.txt file(s). You must go into shoulder_visualization.py and specify which IDs (in a list) you would like to visualize. 
 
----
 
 Good luck, and enjoy RETrO!
 
+---
+
 Paul A. Dalba, PhD Candidate
+
 Boston University, Department of Astronomy
+
 https://blogs.bu.edu/pdalba
+
 pdalba@bu.edu
