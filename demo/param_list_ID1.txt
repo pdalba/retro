@@ -1,0 +1,25 @@
+#This file created at 2017-09-20 12:18:15.685184. All units are SI.
+ID		=1
+T_atm		=1000.0
+semimajor	=7479900000.0
+M_p		=5.9723e+24
+R_star		=55656000.0
+atm_type	=H2
+z_ref		=6421968.0
+g		=9.66488628886
+mu		=3.82521142857e-27
+nu_ref		=3.18487258116e-05
+H		=373449.088562
+nd_ref		=7.24296526998e+24
+ecc		=0.0
+theta_peri	=0.0
+n_theta0	=4.0
+n_orbit_steps	=50
+abs_cross_sec	=0.0
+z_top		=13890949.7712
+ds		=37344.9088562
+n_rotations	=100
+delta_y_init	=93362.2721404
+delta_y_cut	=4.0
+plotting	=off
+sphere_sym	=yes

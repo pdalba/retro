@@ -1,0 +1,7 @@
+#Input parameters for shoulder.py script of RETrO. 
+ID		=1
+T_ATM		=1000.0
+SEMI		=0.05
+M_P		=1.0
+R_STAR		=0.08
+ATM		=H2
