@@ -7,7 +7,7 @@ RETrO is a tool to simulate atmospheric refraction phenomena in the atmospheres 
 
 **ApJ link: (to be linked after publication by ApJ)**
 
-**arXiv link: (to be linked on 9/21/2017)**
+**arXiv link: https://arxiv.org/abs/1709.06991**
 
 
 If you make use of this tool in your research, please cite the above article.
