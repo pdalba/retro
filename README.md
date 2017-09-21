@@ -1,6 +1,6 @@
 # retro
 
-Refraction in Exoplanet Transit Observations
+**R**efraction in **E**xoplanet **Tr**ansit **O**bservations
 
 RETrO is a tool to simulate atmospheric refraction phenomena in the atmospheres of transiting and non-transiting exoplanets. RETrO is written in Python v2.7 and described in an article that is accepted for publication by The Astrophysical Journal. 
 
